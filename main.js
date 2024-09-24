@@ -22,3 +22,6 @@ let media = function(num1,num2,num3){
 }
 console.log(media(a,b,c));
 document.write(media); 
+document.write(a);
+document.write(b);
+document.write(c);
