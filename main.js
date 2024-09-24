@@ -19,6 +19,6 @@ let media = function(num1,num2,num3){
 }
 console.log(media(2,3,4));
 
-let coloquetrêsnumeros=prompt(media);
+let coloquetrêsnumeros=parseInt(prompt(media));
 Document.write(media); 
 parseInt(prompt)
