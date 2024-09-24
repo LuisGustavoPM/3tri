@@ -1,1 +1,1 @@
-function soma(num1,num3)
+function soma(1,2)
