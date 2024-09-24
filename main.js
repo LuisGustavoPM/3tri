@@ -14,11 +14,13 @@ let areatrapezio = function(Base1,base2,altura){
 }
 console.log(areatrapezio(2,3,2));
 
+let a=parseInt(prompt('numero1'));
+let b=parseInt(prompt('numero2'));
+let c=parseInt(prompt('numero3'));
 let media = function(num1,num2,num3){
     return (num1+num2+num3)/3;
 }
-console.log(media(2,3,4));
+console.log(media(a,b,c));
 
-let coloquetrêsnumeros=parseInt(prompt(media));
 Document.write(media); 
 parseInt(prompt)
