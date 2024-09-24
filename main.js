@@ -12,3 +12,11 @@ function areaQuadrado
     return lado**6;
 }
 console.log(areaQuadrado(6,6))
+let (){
+
+}
+
+let areatrapezio = function(Base1,base2,altura){
+    return Base1+base2*altura/2;
+}
+console.log(areatrapezio(2,3,2));
