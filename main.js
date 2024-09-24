@@ -21,6 +21,4 @@ let media = function(num1,num2,num3){
     return (num1+num2+num3)/3;
 }
 console.log(media(a,b,c));
-
-Document.write(media); 
-parseInt(prompt)
+document.write(media); 
