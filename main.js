@@ -26,6 +26,7 @@
 let nome=['mel','marina','luis','adam','monise','julia kiel','julia rosa','julia gabrielly','amanda','felipe lin','felipe mayer','felipe barbosa','rhianne','vinicius','gabriel','joão henrique','joao pedro','joão vitor','joao filho','lorena','maria'];
 
 let i=0;
-while(i<10)
+while(i<nome.length)
     {console.log (i);
+    console.log (nome[i]);
     i=i+1;}
