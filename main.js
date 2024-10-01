@@ -29,7 +29,7 @@ let i=0;
 while(i<nome.length)
     {console.log (i);
     console.log (nome[i]);
-    i=i++;
+    i++;
 }
 
 for (let i = 0; i < nome.length; i++) {
