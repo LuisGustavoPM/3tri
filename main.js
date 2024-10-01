@@ -29,4 +29,11 @@ let i=0;
 while(i<nome.length)
     {console.log (i);
     console.log (nome[i]);
-    i=i+1;}
+    i=i++;
+}
+
+for (let i = 0; i < nome.length; i++) {
+    console.log(i);
+    console.log (nome[i]);
+    
+}
