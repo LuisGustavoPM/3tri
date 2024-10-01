@@ -37,3 +37,13 @@ for (let i = 0; i < nome.length; i++) {
     console.log (nome[i]);
     
 }
+
+let idade = 16;
+if( idade > 17) {
+    console.log ('Pode dirigir');
+}
+
+else{
+    console.log ('Ilegal dirigir');
+
+}
