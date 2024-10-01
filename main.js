@@ -38,7 +38,7 @@ for (let i = 0; i < nome.length; i++) {
     
 }
 
-let idade = 16;
+let idade = parseint (prompt('Qual a sua idade?'));
 if( idade > 17) {
     console.log ('Pode dirigir');
 }
